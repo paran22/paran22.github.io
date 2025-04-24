@@ -3,7 +3,7 @@ title: 항해 플러스 AI 후기) 5주차 LLM 라이브러리 활용 - MLLM / R
 description: >-
   항해 플러스 AI 과정을 진행하면서 5주차에 학습한 내용을 정리한다.
 author: 김가은
-date: 2025-04-24 23:00:00 +0900
+date: 2025-04-24 20:00:00 +0900
 categories: [항해플러스AI]
 tags: [항해99, 항해 플러스 AI 후기, AI 개발자, LLM, 딥러닝, 머신러닝, 인공지능, instruction tuning, MLLM, RAG, 자연어 처리]
 pin: true
